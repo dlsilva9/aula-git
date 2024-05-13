@@ -1,12 +1,10 @@
 git init
 
-git config --global user.name opencartmasterbr
+git config --global user.name 
 
-git config --global user.email  suporte@opencartmaster.com.br
+git config --global user.email  
 
-
-git clone https://github.com/opencartmasterbr/melhorenvio-opencart.git
-git clone https://github.com/opencartmasterbr/vindi-opencart.git
+git clone 
 
 acessar diretorio
 
